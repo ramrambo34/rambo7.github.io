@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "mkdir -p ~/.claude/instagram && cp \"$CLAUDE_PROJECT_DIR/.claude/instagram/voice.md\" ~/.claude/instagram/voice.md 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
