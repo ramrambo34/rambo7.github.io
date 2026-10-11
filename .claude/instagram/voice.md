@@ -28,8 +28,8 @@ copies it into place at the start of each Claude Code session.
 - **Do I swear:** no.
 - **Emoji in captions:** yes, a few per caption, used naturally.
 - **Face on camera:** faceless. The photos do the talking.
-- **Voiceover or to-camera:** never to-camera. On-screen text over the photos,
-  or a calm voiceover.
+- **Voiceover or to-camera:** neither. No voice at all: on-screen text over the
+  photos, with music added inside Instagram. Reels are built with reels/make_reel.py.
 - **Pace:** unknown. Default to a slow, relaxed pace (about 140 wpm).
 
 ## My positions
