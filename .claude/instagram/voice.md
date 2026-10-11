@@ -49,7 +49,7 @@ copies it into place at the start of each Claude Code session.
 
 ## Proof I can use
 
-- Named in the TOP 35 Taiwan photographers at the 11th 35AWARDS International
+- Named in the TOP 35 Taiwan photographers at the 11th 35AWARDS International (won this year, 2026)
   Photography Award (certificate dated 1 June 2026). The ranking is for Taiwan,
   not global: never say "top 35 in the world".
 - That edition of 35AWARDS had 112,600 participants from 175 countries and
