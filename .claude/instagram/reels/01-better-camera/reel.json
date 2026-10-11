@@ -1,0 +1,23 @@
+{
+  "out": "better-camera.mp4",
+  "shots": [
+    {"photo": "photos/1-best.jpg", "cards": [
+      {"text": "You don't need a better camera.", "dur": 2.6},
+      {"text": "You need to change where you stand.", "dur": 2.8}]},
+    {"photo": "photos/2-bee.jpg", "cards": [
+      {"text": "112,600 entrants. 175 countries.", "dur": 2.8},
+      {"text": "I made Taiwan's top 35.", "dur": 2.6}]},
+    {"photo": "photos/3-camera.jpg", "cards": [
+      {"text": "Which camera? Doesn't matter.", "dur": 2.4}]},
+    {"photo": "photos/4-low.jpg", "cards": [
+      {"text": "Get low. Puddles become mirrors.", "dur": 2.8}]},
+    {"photo": "photos/5-high.jpg", "cards": [
+      {"text": "Get high. Crowds become patterns.", "dur": 2.8}]},
+    {"photo": "photos/6-portrait.jpg", "cards": [
+      {"text": "Step left. No pole in their head.", "dur": 2.8}]},
+    {"photo": "photos/7-angle.jpg", "cards": [
+      {"text": "Try one new angle today. Show me.", "dur": 2.8}]},
+    {"photo": "photos/1-best.jpg", "cards": [
+      {"text": "Still think you need a better camera?", "dur": 3.0}]}
+  ]
+}
