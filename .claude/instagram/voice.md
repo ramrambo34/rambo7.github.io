@@ -49,8 +49,11 @@ copies it into place at the start of each Claude Code session.
 
 ## Proof I can use
 
-- Selected as one of the best 35 photographers in the 35AWARDS competition
-  (2025).
+- Named in the TOP 35 Taiwan photographers at the 11th 35AWARDS International
+  Photography Award (certificate dated 1 June 2026). The ranking is for Taiwan,
+  not global: never say "top 35 in the world".
+- That edition of 35AWARDS had 112,600 participants from 175 countries and
+  461.4 thousand photos submitted.
 
 ## The ask
 
